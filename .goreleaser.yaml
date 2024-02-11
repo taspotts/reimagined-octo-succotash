@@ -47,3 +47,6 @@ nfpms:
       - rpm
     provides:
       - reimagined-octo-succotash
+
+brews:
+  - name: reimagined-octo-succotash
