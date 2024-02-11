@@ -57,3 +57,4 @@ brews:
     repository:
       owner: taspotts
       name: homebrew-reimagined-octo-succotash
+      token: "{{ .Env.TAP_GITHUB_TOKEN }}"
