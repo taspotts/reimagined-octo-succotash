@@ -50,3 +50,6 @@ nfpms:
 
 brews:
   - name: reimagined-octo-succotash
+    repository:
+      owner: taspotts
+      name: homebrew-reimagined-octo-succotash
