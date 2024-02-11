@@ -49,7 +49,8 @@ nfpms:
       - reimagined-octo-succotash
 
 brews:
-  - name: reimagined-octo-succotash
+  - description: reimagined-octo-succotash homebrew tap.
+    homepage: https://github.com/taspotts/reimagined-octo-succotash
     repository:
       owner: taspotts
       name: homebrew-reimagined-octo-succotash
