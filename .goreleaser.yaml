@@ -35,6 +35,9 @@ changelog:
       - "^docs:"
       - "^test:"
 
+announce:
+  skip: true
+
 nfpms:
   - vendor: taspotts
     homepage: https://github.com/taspotts/reimagined-octo-succotash
